@@ -1,0 +1,54 @@
+[
+  {
+    "name": "1",
+    "priceCapital": 0,
+    "priceٍSell": 1,
+    "parcode": 1,
+    "quantity": 1,
+    "yearManufacture": 1,
+    "age": 1,
+    "size": "1",
+    "expiryDate": "0002-01-01 00:00:00.000",
+    "category": "1",
+    "_backupAt": "2025-10-25T08:08:14.302Z"
+  },
+  {
+    "name": "1",
+    "priceCapital": 1,
+    "priceٍSell": 2,
+    "parcode": 2,
+    "quantity": 2,
+    "yearManufacture": 2,
+    "age": 2,
+    "size": "2",
+    "expiryDate": "0004-01-01 00:00:00.000",
+    "category": "2",
+    "_backupAt": "2025-10-25T08:11:36.459Z"
+  },
+  {
+    "name": "1",
+    "priceCapital": 12,
+    "priceٍSell": 13,
+    "parcode": 14,
+    "quantity": 15,
+    "yearManufacture": 16,
+    "age": 12,
+    "size": "2",
+    "expiryDate": "0028-01-01 00:00:00.000",
+    "category": "1",
+    "_backupAt": "2026-06-02T06:13:58.909Z"
+  },
+  {
+    "name": "cpd",
+    "priceCapital": 100,
+    "priceٍSell": 130,
+    "parcode": 79,
+    "quantity": 1000,
+    "yearManufacture": 2026,
+    "age": 3,
+    "size": "2",
+    "expiryDate": "2029-01-01 00:00:00.000",
+    "category": "1",
+    "_backupAt": "2026-06-02T06:25:09.442Z"
+  }
+]
